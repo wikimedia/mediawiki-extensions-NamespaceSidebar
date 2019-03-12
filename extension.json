@@ -5,9 +5,14 @@
 		"Ike Hecht"
 	],
 	"url": "https://www.mediawiki.org/wiki/Extension:NamespaceSidebar",
-	"description": "Allows a different sidebar for each namespace",
+	"descriptionmsg": "namespacesidebar-desc",
 	"license-name": "GPL-2.0-or-later",
 	"type": "other",
+	"MessagesDirs": {
+		"NamespaceSidebar": [
+			"i18n"
+		]
+	},
 	"AutoloadClasses": {
 		"NamespaceSidebarHooks": "NamespaceSidebarHooks.php"
 	},
