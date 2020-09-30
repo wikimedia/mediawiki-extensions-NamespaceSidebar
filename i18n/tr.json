@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hedda"
+			"Hedda",
+			"MuratTheTurkish"
 		]
 	},
-	"namespacesidebar-desc": "Her ad alanı için farklı bir kenar çubuğu sağlar"
+	"namespacesidebar-desc": "Her ad alanı için farklı bir kenar çubuğuna izin verir"
 }
