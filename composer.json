@@ -22,7 +22,6 @@
 		"phpcs": "phpcs -sp --cache"
 	},
 	"require": {
-		"php": ">=5.5",
 		"composer/installers": "~1.0"
 	}
 }
