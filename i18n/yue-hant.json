@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"JeffreyKim"
+			"JeffreyKim",
+			"Ktchankt"
 		]
 	},
-	"namespacesidebar-desc": "允許每個命名空間使用唔同嘅側欄"
+	"namespacesidebar-desc": "俾每個命名空間用唔同嘅側欄"
 }
