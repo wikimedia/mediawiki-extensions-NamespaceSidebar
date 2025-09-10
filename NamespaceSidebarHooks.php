@@ -9,7 +9,6 @@
 class NamespaceSidebarHooks {
 
 	/**
-	 *
 	 * @param Skin $skin
 	 * @param array &$bar
 	 */
